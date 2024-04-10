@@ -1,2 +1,2 @@
-
-![alt text](https://raw.githubusercontent.com/tattyola/todo/main/public/images/todolist-fe.png)
+###React
+![pic](https://raw.githubusercontent.com/tattyola/todo/main/public/images/todo-list.png)
